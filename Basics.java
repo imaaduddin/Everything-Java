@@ -15,7 +15,7 @@ public class Basics { // This is a class or a collection of related code
     System.out.print("My name is Imaad!\\"); // To display a backslash you have to type 2 backslashes 
 
 
-    // this is a comment, it is followed by forward slashes and is ignored by the compiler 
+    // This is a comment, it is followed by forward slashes and is ignored by the compiler 
 
 
     /* This is a multi line comment
