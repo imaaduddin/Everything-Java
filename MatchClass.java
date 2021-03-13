@@ -32,5 +32,7 @@ public class MatchClass {
     x = scanner.nextDouble();
     System.out.println("Enter side y: ");
     y = scanner.nextDouble();
+
+    
   }
 }
