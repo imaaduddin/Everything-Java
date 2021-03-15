@@ -6,7 +6,7 @@ public class IfStatements {
     if (age >= 13) {
       System.out.println("You can come in!");
     } 
-    else if (age >= 9 & age < 13) {
+    else if (age >= 9 && age < 13) {
      System.out.println("You can come in with an adult!");
     }
     else {
