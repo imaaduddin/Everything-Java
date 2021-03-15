@@ -33,6 +33,11 @@ public class MatchClass {
     System.out.println("Enter side y: ");
     y = scanner.nextDouble();
 
+    z = Math.sqrt((x * x) + (y * y));
+
+    System.out.println("The hypotenuse is: " + z);
+
+    scanner.close(); // this is to close scanner after use
     
   }
 }
