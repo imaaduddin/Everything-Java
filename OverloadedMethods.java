@@ -4,8 +4,10 @@ public class OverloadedMethods {
     // method name + parameter = method signature 
 
     int x = add(3, 4);
+    double y = add(3.14, 2.34, 9.99, 2.34);
 
     System.out.println(x);
+    System.out.println(y);
 
   }
 
