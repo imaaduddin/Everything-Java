@@ -6,6 +6,7 @@ public class Static {
     StaticTwo friendOne = new StaticTwo("Choji");
     StaticTwo friendTwo = new StaticTwo("Shikimaru");
 
-    System.out.println(StaticTwo.numberOfFriends);
+    // System.out.println(StaticTwo.numberOfFriends);
+    StaticTwo.displayFriends();
   }
 }
